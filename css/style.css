@@ -63,8 +63,8 @@
     font-size: 8vmin;
     text-align: center;
     margin: 2rem 3rem 0;
-    mix-blend-mode: overlay;
-    color: #fff;
+    mix-blend-mode: normal;
+    color: PINK;
     font-weight: 100;
   }
   
